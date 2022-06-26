@@ -5,3 +5,4 @@
 最後に合計点が発表される．
 
 https://uze-usei.site/
+LODであるDBpediaのデータを利用して作成している．
